@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bibek 👋
 
-## 🚀 Top-Level Full Stack Developer
+## 🚀 I'm a Full Stack Developer
 
 I'm a seasoned full-stack developer with a passion for building scalable and efficient applications. With extensive experience in both front-end and back-end technologies, I excel at bringing innovative ideas to life. My expertise spans across various frameworks, languages, and tools, making me adept at tackling complex challenges.
 
